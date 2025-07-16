@@ -5,7 +5,5 @@ int main(void){
     std::cout << "hello world" << std::endl;
     std::cout << "Second " << std::endl;
 
-asasdasd
-asdasd
-asda
+    std::cout << "Print Hello world" << std::endl;
 }
